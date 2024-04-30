@@ -17,7 +17,7 @@
                 <table>
                     <thead>
                         <tr>
-                            <th>i</th>
+                            <th>id</th>
                             <th>name</th>
                             <th>degree</th>
                             <th>mobile</th>
